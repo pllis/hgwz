@@ -1,0 +1,13 @@
+cat1:
+    - "garfield"
+    - "orange"
+    - 6
+    - "male"
+    - "shorthair"
+
+dog1:
+    - "Pastoral_dog"
+    - "white"
+    - 3
+    - "female"
+    - "longhair"
